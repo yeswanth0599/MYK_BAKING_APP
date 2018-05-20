@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="main_receipe_cardview_textview_size">20sp</dimen>
+    <dimen name="recipe_step_video_description_title_size">16sp</dimen>
+    <dimen name="recipe_step_video_description_size">14sp</dimen>
+    <dimen name="recipe_steps_fragment_container_dimen">400dp</dimen>
+    <dimen name="recipe_steps_display_fragment_container_dimen">600dp</dimen>
+    <dimen name="describe_recipe_steps_info_image_height">150dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+    <dimen name="padding_20dp">20dp</dimen>
+    <dimen name="padding_50dp">50dp</dimen>
+    <dimen name="padding_100dp">100dp</dimen>
+    <dimen name="simple_exoplayer_height">200dp</dimen>
+    <dimen name="recipe_description_title_size">16sp</dimen>
+    <dimen name="recipe_description_info_size">14sp</dimen>
+    <dimen name="recipe_list_cardview_layout_height">250dp</dimen>
+    <dimen name="recipe_list_cardview_corner_radius">8dp</dimen>
+    <dimen name="unit2">8dp</dimen>
+    <dimen name="widget_title_size">20sp</dimen>
+</resources>

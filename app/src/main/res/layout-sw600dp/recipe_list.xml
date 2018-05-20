@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:id="@+id/baking_main_recipe_card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/activity_horizontal_margin">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/baking_main_recipe_info"
+        android:textSize="@dimen/main_receipe_cardview_textview_size"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/describe_recipe_steps_info_image_height"
+        android:paddingTop="@dimen/padding_20dp"
+        android:id="@+id/recipe_main_info_video_thumbnail"/>
+</android.support.v7.widget.CardView>
